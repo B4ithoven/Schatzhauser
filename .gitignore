@@ -1,0 +1,21 @@
+# Vom Bot erzeugte Daten (werden automatisch neu geladen)
+bot/schatzhauser_cache.pkl
+bot/schatzhauser_f24.json
+bot/schatzhauser_fund.json
+bot/schatzhauser_fx.json
+bot/schatzhauser_p.json
+bot/backtests/
+
+# Persönliches Depot (Bestand, Kasse, Buchungen)
+bot/schatzhauser_state.json
+*.csv
+
+# Sicherungen, virtuelle Umgebung, Python-Reste
+backup_*/
+schatzhauser_venv/
+__pycache__/
+*.pyc
+
+# Leere Platzhalter-Ordner
+state/
+train/
