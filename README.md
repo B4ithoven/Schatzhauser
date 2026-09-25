@@ -36,3 +36,4 @@ Ausführlich: [handbuch/handbuch.md](handbuch/handbuch.md), Änderungen: [protok
 Keine Anlageberatung. Backtests zeigen die Vergangenheit und enthalten Vereinfachungen
 (siehe Handbuch, Abschnitt Backtest). Kursdaten: Yahoo Finance, Wertpapierliste: öffentliches
 Freedom24-Verzeichnis.
+# Schatzhauser
