@@ -37,3 +37,4 @@ Keine Anlageberatung. Backtests zeigen die Vergangenheit und enthalten Vereinfac
 (siehe Handbuch, Abschnitt Backtest). Kursdaten: Yahoo Finance, Wertpapierliste: öffentliches
 Freedom24-Verzeichnis.
 # Schatzhauser
+# Schatzhauser
